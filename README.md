@@ -45,13 +45,13 @@ kubernetes官网
 
 [ istio-handbook](https://github.com/servicemesher/istio-handbook)
 
-[极客时间——深入剖析kubernetes](https://time.geekbang.org/column/intro/116)
+[极客时间——深入剖析kubernetes](https://time.geekbang.org/column/intro/116)  资源待更新
 
 [servicemesher  weekly](https://github.com/servicemesher/weekly)
 
 ## 网络
 
-极客时间--趣谈网络协议
+[极客时间--趣谈网络协议]()   资源待更新
 
 图解TCP/IP
 
@@ -79,9 +79,9 @@ TCP-IP 详解卷3：TCP 事务协议
 
 [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 
-极客时间--高并发系统设计40问
+[极客时间--高并发系统设计40问]()  资源待更新
 
-[九章算法系统设计](https://www.jiuzhang.com/qa/3705/)
+[九章算法系统设计](https://www.jiuzhang.com/qa/3705/)  资源待更新
 
 [关于所谓的System Design，我说点个人意见吧](https://www.1point3acres.com/bbs/thread-169343-1-1.html)
 
@@ -89,7 +89,7 @@ TCP-IP 详解卷3：TCP 事务协议
 
 [30天自制操作系统](https://github.com/yourtion/30dayMakeOS)
 
-极客时间-趣谈Linux操作系统
+[极客时间-趣谈Linux操作系统]() 资源待更新
 
 MIT 6.828
 
@@ -103,7 +103,7 @@ MIT 6.828
 
 鸟哥的Linux私房菜
 
-极客时间 -- Linux性能优化
+[极客时间 -- Linux性能优化]()  资源待更新
 
 ## 刷题
 
@@ -111,9 +111,9 @@ Leetcode题解
 
 [lintcode 题解](https://www.jiuzhang.com/solution)
 
-九章算法基础课
+[九章算法基础课]()  资源待更新
 
-九章算法进阶课
+[九章算法进阶课]()  资源待更新
 
 花花酱 YouTube
 
@@ -157,17 +157,17 @@ Leetcode-cn.com几个更新题解比较频繁的大佬， 关注下就行
 
 [alibaba-java-style-guide](https://github.com/chjw8016/alibaba-java-style-guide)
 
-九章算法 -- OOD对象设计
+[九章算法 -- OOD对象设计]() 资源待更新
 
-极客时间 -- 深入拆解Java虚拟机
+[极客时间 -- 深入拆解Java虚拟机]() 资源待更新
 
 [stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
 
 ## 消息队列
 
-###### 极客时间 -- 消息队列高手课
+[极客时间 -- 消息队列高手课]()   资源待更新
 
-###### 极客时间 -- 即时消息技术剖析与实战
+[极客时间 -- 即时消息技术剖析与实战]() 资源待更新
 
 ## English
 
