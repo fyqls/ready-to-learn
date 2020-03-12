@@ -109,7 +109,7 @@ MIT 6.828
 
 Leetcode题解
 
-[lintcode 题解](https://www.jiuzhang.com/solutionnn)
+[lintcode 题解](https://www.jiuzhang.com/solution)
 
 九章算法基础课
 
