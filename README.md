@@ -151,6 +151,8 @@ Leetcode-cn.com几个更新题解比较频繁的大佬， 关注下就行
 
 [java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
 
+[互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+
 [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
 [alibaba-java-style-guide](https://github.com/chjw8016/alibaba-java-style-guide)
