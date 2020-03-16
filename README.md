@@ -1,5 +1,6 @@
 # ready to learn
 ## golang
+[Go By Example](https://gobyexample-cn.github.io/)
 
 [draveness's blog——GO语言设计与实现](https://draveness.me/golang/)
 
